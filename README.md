@@ -1,2 +1,5 @@
-# jupyter-singleuser-hardware
-Jupyter singleuser docker image with hardware support (libusb, chipwhisperer and rtl_433)
+# Image
+Jupyter singleuser docker image with hardware support:
+ - libusb
+ - chipwhisperer
+ - rtl_433
